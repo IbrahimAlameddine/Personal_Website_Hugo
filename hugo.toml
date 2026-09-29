@@ -1,0 +1,4 @@
+baseURL = ''
+realativeURLs = true
+locale = 'ar'
+title = 'صفحتي الشخصيّة'

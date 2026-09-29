@@ -1,0 +1,22 @@
+{
+  "call": {
+    "title": "الهاتف المحمول",
+    "icon": "fas fa-phone",
+    "content": "732 951 81 00961"
+  },
+  "chat": {
+    "title": "مراسلة عبر واتس أب",
+    "icon": "fab fa-whatsapp",
+    "content": "732 951 81 00961"
+  },
+  "email1": {
+    "title": "البريد الإلكتروني الشخصي",
+    "icon": "fas fa-envelope",
+    "content": "ibrahimalameddine99@gmail.com"
+  },
+  "email2": {
+    "title": "البريد الإلكتروني الخاص بالعمل",
+    "icon": "fas fa-envelope",
+    "content": "ibrahimalameddine99@gmail.com"
+  }
+}

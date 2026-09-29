@@ -1,0 +1,49 @@
+{
+    "html": {
+        "title": "HTML",
+        "percentage": "90%",
+        "color": "#E34F26"
+    },
+
+    "css": {
+        "title": "CSS",
+        "percentage": "85%",
+        "color": "#1572B6"
+    },
+
+    "javascript": {
+        "title": "JavaScript",
+        "percentage": "80%",
+        "color": "#F7DF1E"
+    },
+
+    "php": {
+        "title": "PHP",
+        "percentage": "90%",
+        "color": "#777BB4"
+    },
+
+    "laravel": {
+        "title": "Laravel",
+        "percentage": "95%",
+        "color": "#FF2D20"
+    },
+
+    "mysql": {
+        "title": "MySQL",
+        "percentage": "80%",
+        "color": "#4479A1"
+    },
+
+    "typescript": {
+        "title": "TypeScript",
+        "percentage": "70%",
+        "color": "#3178C6"
+    },
+
+    "nextjs": {
+        "title": "Next.js",
+        "percentage": "70%",
+        "color": "#000000"
+    }
+}

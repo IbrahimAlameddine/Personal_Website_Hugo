@@ -1,0 +1,29 @@
+{
+    "prompterCourse": {
+        "title": "كتابة الأوامر للذكاء الاصطناعي",
+        "icon": "fas fa-robot",
+        "content": " دورة تدريبية متخصصة في كتابة الأوامر والتعامل مع أدوات الذكاء الإصطناعي",
+        "time": "2026"
+    },
+
+    "frontendCourse": {
+        "title": "تطوير واجهات الويب",
+        "icon": "fas fa-laptop-code",
+        "content": "دورة تدريبية في تطوير واجهات الويب من أكاديمية حسوب",
+        "time": "2026"
+    },
+
+    "backendCourse": {
+        "title": "تطوير الواجهات الخلفية",
+        "icon": "fas fa-server",
+        "content": "دورة تدريبية في تطوير الواجهات الخلفية باستخدام PHP من أكاديمية حسوب",
+        "time": "2026"
+    },
+
+    "computerScienceDiploma": {
+        "title": "دبلوم علوم الكمبيوتر",
+        "icon": "fas fa-graduation-cap",
+        "content": "دبلوم في علوم الكمبيوتر من الجامعة اللبنانية",
+        "time": "2027"
+    }
+}

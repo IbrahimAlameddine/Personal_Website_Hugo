@@ -1,0 +1,22 @@
+{
+    "fullName" : {
+        "title": "الاسم",
+        "icon" : "fas fa-user-alt",
+        "content" : "إبراهيم علم الدّين"
+    },
+    "marutalStatus" : {
+        "title" : "الحالة الاجتماعيّة",
+        "icon" : "fas fa-heart",
+        "content" : "اعزب"
+    },
+    "myBirthDay" : {
+        "title" : "تاريخ الميلاد",
+        "icon" :"fa-solid fa-calendar",
+        "content" : "24-12-2004"
+    },
+    "nationality" :{
+        "title" : "الجنسيّة",
+        "icon" : "fas fa-flag",
+        "content" : "لبناني"
+    }
+}
